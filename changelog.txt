@@ -1,0 +1,51 @@
+== Changelog ==
+
+= 1.1.4 =
+* Update theme URL
+
+= 1.1.3 =
+* Design bug fixed
+
+= 1.1.2 =
+* Update to pro button maintained
+* Fixed as mentioned by reviewer
+
+
+= 1.1.1 =
+* Updated compatibility 4.7
+* Custom CSS migration
+* Mentained the design
+* Screenshot changed
+
+= 1.1.0 =
+* Added more social share feature
+
+= 1.0.8 =
+* Minor bug fixed
+* Minor style fixed
+
+= 1.0.7 =
+* Add buttons on customizer
+
+= 1.0.6 =
+* Minor bug fixed
+* Minor style fixed
+
+= 1.0.5 =
+* Documentation added
+* Minor style fixed
+
+= 1.0.4 =
+* Default static page maintained
+
+= 1.0.3 =
+* Language support .pot file updated
+
+= 1.0.2 =
+* Minor Bug Fixed
+
+= 1.0.1 =
+* Features added
+
+= 1.0.0 =
+* Initial submission to WordPress repository
